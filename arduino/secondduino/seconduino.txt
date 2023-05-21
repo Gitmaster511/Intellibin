@@ -1,0 +1,1 @@
+We planned to use a second arduino to expand the ports/pins to add stuff like 3 motors and LCD but the serial i2c communication between them was too finicky and hard to get working.
