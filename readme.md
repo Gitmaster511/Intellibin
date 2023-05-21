@@ -1,5 +1,7 @@
 # Intellibin
 
+![Image of testing Intellibin](https://github.com/Gitmaster511/Intellibin/blob/main/testingimage.png)
+
 Sorry for the mess, we needed to use it for testing
 
 ## What is it?
